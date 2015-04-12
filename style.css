@@ -1,0 +1,18 @@
+body {
+	background-color: pink;
+}
+.contact {
+	background-color: #54d4f4;
+	font-size: 20px;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	text-align: center; 
+}
+.education {
+	background-color: navy;
+	font-size: 20px;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	text-align: center; 
+}
+}
